@@ -7,10 +7,10 @@ All notable changes to this repository are documented here. Versioning follows [
 Minor release, 10 November 2026 (KST): the term rulings. Michael Paik approved every recommendation in Part A of Legal Terms and Citations v0.1 on 10 November 2026, the six consistency terms of v0.1.0 included. Applied by script (`apply_rulings.py`) to the batch output and the edition re-assembled, so v0.1.0's hand edits carry over; 183 changes, each checked against its English context. Status unchanged: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
 - **deployer** = 배포자: 11 occurrences of 배치자 (Chapters 13 and 19, Appendix H).
-- **General Counsel** = 법무총괄: 22 occurrences of 최고법무책임자 (Chapter 12) and 법무총괄책임자 (Appendix J, Part 3.5.1), with the following particle adjusted; every one renders "General Counsel" in the English, none "Chief Legal Officer".
+- **General Counsel** = 법무총괄: 22 occurrences of 최고법무책임자 (Chapter 12) and 법무총괄책임자 (Appendix J, Parts 1 to 3), with the following particle adjusted; every one renders "General Counsel" in the English, none "Chief Legal Officer".
 - **risk appetite** = 리스크 선호도: 26 occurrences of 리스크 성향, particles adjusted; the Conclusion's heading now reads 어떤 리스크 선호도도 정당화할 수 없는 것, and the table of contents with it.
 - **trustworthiness** = 신뢰가능성: 13 changes, only in blocks where the English says trustworthiness and not reliability; the adjective "trustworthy" keeps 신뢰할 수 있는.
-- **operational catechism** = 운영 교리문답: 28 changes, including Chapter 5's 운영 문답서 and the bare 문답 where the English says catechism (the Conclusion, Appendix J Part 22.4 and Appendix I).
+- **operational catechism** = 운영 교리문답: 28 changes, including Chapter 5's 운영 문답서 and the bare 문답 where the English says catechism (the Conclusion, Appendix N, Appendices I and J).
 - **assumption register** = 가정 등록부 (2) and **agent registry** = 에이전트 레지스트리 (8), following the appendix titles.
 - **validation** = 확인: 65 changes, only in blocks where the English says validation and not verification, so the TEVV pair 검증·확인 is untouched. Exception: training, validation and test data sets keep 학습, 검증, 테스트 데이터셋, the standard rendering of that phrase. Flagged for the line review: a block that also uses 검증 for another English word (check, test) would have changed with it.
 - **QMS** = 품질경영시스템: 5 occurrences of 품질관리시스템, including the US FDA Quality Management System Regulation in Chapter 20.
