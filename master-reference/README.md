@@ -2,6 +2,8 @@
 
 [AI_GRC_Master_Reference_v7_14_KO.md](../AI_GRC_Master_Reference_v7_14_KO.md)에서 파생되었으며, 그 파일이 인용과 내려받기의 기준 파일이다. 각 부분은 영어판의 같은 이름 부분에 대응한다. 각 부분은 기준 텍스트를 그대로 담고 있으며, 추가된 줄은 각 부분의 머리와 꼬리에 있는 탐색 블록뿐이다. 상태: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
+Derived from [AI_GRC_Master_Reference_v7_14_KO.md](../AI_GRC_Master_Reference_v7_14_KO.md), which remains the source of record and the file to cite or download.
+
 | Part | Title | Size (KB) |
 |---|---|---|
 | 1 | [AI GRC 마스터 레퍼런스 파일: 버전 7.14](00-ai-grc-master-reference-file-version-7-14-to-part-0-quick.md) | 48 |

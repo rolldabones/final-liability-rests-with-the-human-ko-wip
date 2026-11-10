@@ -2,6 +2,8 @@
 
 [Final_Liability_Rests_with_the_Human_KO.md](../Final_Liability_Rests_with_the_Human_KO.md)에서 파생되었으며, 그 파일이 인용과 내려받기의 기준 파일이다. 각 부분은 영어판의 같은 이름 부분에 대응한다. 각 부분은 기준 텍스트를 그대로 담고 있으며, 추가된 줄은 각 부분의 머리와 꼬리에 있는 탐색 블록뿐이다. 상태: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
+Derived from [Final_Liability_Rests_with_the_Human_KO.md](../Final_Liability_Rests_with_the_Human_KO.md), which remains the source of record and the file to cite or download.
+
 | Part | Title | Size (KB) |
 |---|---|---|
 | 1 | [최종 책임은 인간에게 있다 · 목차](00-table-of-contents.md) | 3 |
