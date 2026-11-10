@@ -7,7 +7,7 @@
 **Son-U Michael Paik**
 GRC Solutions Korea 대표이사(CEO)
 
-**v0.2.0 · 2026년 11월 10일 · 라이선스: [CC BY-NC-SA 4.0](LICENSE.md) · 변경 기록: [CHANGELOG.md](CHANGELOG.md) · [English edition](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip)**
+**v0.2.1 · 2026년 11월 10일 · 라이선스: [CC BY-NC-SA 4.0](LICENSE.md) · 변경 기록: [CHANGELOG.md](CHANGELOG.md) · [English edition](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip)**
 
 > **상태: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** 이 저장소의 한국어 텍스트는 영어판 v1.12.0을 기계 번역한 초벌 원고이며, 저자가 한 줄씩 검토하고 있다. 완성된 번역이 아니다. 검토가 끝날 때까지 기준 텍스트는 영어판이며, 두 판이 다를 때에는 영어판이 우선한다.
 
@@ -42,11 +42,11 @@ GRC Solutions Korea 대표이사(CEO)
 - 2026년 11월 10일, 저자가 법률 용어 목록의 권고를 모두 승인하였고, 그 용어 결정을 모든 파일에 한 번에 적용하였다(v0.2.0).
 - 원고의 목차는 번역된 장 제목에서 스크립트로 만들었다. 손으로 고친 것은 [CHANGELOG.md](CHANGELOG.md)에 하나하나 기록했다.
 
-검토가 남아 있다. 용어 결정은 끝났고, 인용과 원고 전체를 저자가 한 줄씩 검토한다. 검토가 끝나면 상태 표시를 바꾸고 v1.0.0으로 낸다.
+검토가 남아 있다. 용어 결정과 인용 검토는 2026년 11월 10일 저자가 승인하였고, 남은 것은 원고 전체에 대한 저자의 한 줄씩 검토이다. 검토가 끝나면 상태 표시를 바꾸고 v1.0.0으로 낸다.
 
 ## 인용
 
-> Paik, Son-U Michael. 『최종 책임은 인간에게 있다』(*Final Liability Rests with the Human*, 한국어판), v0.2.0, 초벌 번역, 저자 검토 중. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip
+> Paik, Son-U Michael. 『최종 책임은 인간에게 있다』(*Final Liability Rests with the Human*, 한국어판), v0.2.1, 초벌 번역, 저자 검토 중. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip
 
 내용을 인용할 때는 기준 텍스트인 영어판을 인용한다. 기계가 읽을 수 있는 인용 정보는 [CITATION.cff](CITATION.cff)에 있다.
 
@@ -64,7 +64,7 @@ GRC Solutions Korea 대표이사(CEO)
 
 **How it was made.** The book was translated the way it says AI work should be governed: the model's output is a draft and a named human answers for the result. On 10 November 2026, 40 requests went to Claude Opus 5.5 (claude-opus-5-5) through the Claude API Message Batches: 32 manuscript files, six parts of Appendix J and two of Appendix I. All 40 ran to completion without reaching their output limit. The instructions fixed the register (한다체), the doctrine names (in English, with the Korean gloss at first use in each file) and the fixed terms. A script compared every file with its English source for headings, table rows, links, trademark marks and the closing line, and checked that every number in each of the 422 citation-bearing blocks appears in the Korean. The author approved the recommended term rulings on 10 November 2026, and they are applied across every file (v0.2.0). The table of contents is generated from the translated chapter headings. Every hand edit is logged in the CHANGELOG.
 
-**What remains.** The author's line review, citations first; the term rulings are done. The status label changes, and the edition is released as v1.0.0, when that review is complete.
+**What remains.** The author approved the term rulings and the 422 citation blocks on 10 November 2026; his line review of the rest of the text remains. The status label changes, and the edition is released as v1.0.0, when that review is complete.
 
 **Cite** the English edition for its content. Nothing here is legal advice, and reading it creates no attorney-client relationship.
 

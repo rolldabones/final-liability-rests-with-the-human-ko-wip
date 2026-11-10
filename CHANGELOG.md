@@ -2,6 +2,10 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README, CITATION.cff and this file version in lockstep; prior versions are superseded, never silently overwritten. Status until the author's line review is complete: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
+## v0.2.1 (2026-11-10)
+
+Patch release, 10 November 2026 (KST): the citations approved. Michael Paik approved the 422 citation-bearing blocks of the Korean text (Legal Terms and Citations v0.1, Part C) on 10 November 2026, with no correction. No change to the text. README (what remains: the line review of the rest of the text) and CITATION.cff to v0.2.1, in lockstep. Status unchanged: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
+
 ## v0.2.0 (2026-11-10)
 
 Minor release, 10 November 2026 (KST): the term rulings. Michael Paik approved every recommendation in Part A of Legal Terms and Citations v0.1 on 10 November 2026, the six consistency terms of v0.1.0 included. Applied by script (`apply_rulings.py`) to the batch output and the edition re-assembled, so v0.1.0's hand edits carry over; 183 changes, each checked against its English context. Status unchanged: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
