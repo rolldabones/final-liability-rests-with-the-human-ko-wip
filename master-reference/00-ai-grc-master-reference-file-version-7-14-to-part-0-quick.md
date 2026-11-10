@@ -147,7 +147,7 @@ AI 작성 워크플로에서 이 파일을 사용할 때에는 구조와 최소 
 
 **정책(Policies).** CSET Operationalizing AI Guidance(부록 H.2.2. 814개의 원 쌍에서 도출된 232개의 고유한 쌍)에서 종합한 행동-주체 쌍. 법무총괄이 서명하는 운영 절차(Part 3.5.1). 이 파일 Part 4부터 Part 16까지의 통제 구조. 정책은 일이 어떻게 수행되고 어떤 증거가 생성되는지를 기술한다.
 
-**시스템(Systems).** CSET Operationalizing AI Guidance(부록 H.2.2. Organization, Operations, Workforce, Infrastructure, Data, Model, System)의 이행 수준. 도구가 아니라 거버넌스의 대상으로 간주되는 배포된 AI 그 자체. Part 9(에이전틱 AI 거버넌스)와 Part 14.1(AI 시스템 목록)에서 언급하는 에이전트 등록부(Agent Registry)와 신뢰 경계 명세. 시스템은 무엇이 범위에 포함되고 통제가 어디에서 작동하는지를 기술한다.
+**시스템(Systems).** CSET Operationalizing AI Guidance(부록 H.2.2. Organization, Operations, Workforce, Infrastructure, Data, Model, System)의 이행 수준. 도구가 아니라 거버넌스의 대상으로 간주되는 배포된 AI 그 자체. Part 9(에이전틱 AI 거버넌스)와 Part 14.1(AI 시스템 목록)에서 언급하는 에이전트 레지스트리(Agent Registry)와 신뢰 경계 명세. 시스템은 무엇이 범위에 포함되고 통제가 어디에서 작동하는지를 기술한다.
 
 **격상에 관한 유의사항.** 4P는 독해 렌즈로 유지한다. 이는 Slow AI, Final Liability 및 Informed Intent와 나란히 놓이는 네 번째 교리로 격상되지 않는다. 4P는 독자가 교리와 함께 문헌을 붙드는 방법으로 기능하며, 그 자체로 하나의 교리가 아니다.
 
