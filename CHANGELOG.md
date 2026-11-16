@@ -2,6 +2,16 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README, CITATION.cff and this file version in lockstep; prior versions are superseded, never silently overwritten. Status until the author's line review is complete: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
+## v0.2.7 (2026-11-16)
+
+Patch release, 16 November 2026 (KST): the mirror lines of English book v1.12.4 to v1.12.6 that correct no fact, carried in translation, with the author's line review of the same day (account-maintenance `OPEN-ITEMS.md` item 49(b)). Translated by Claude (claude-opus-5-5) from the English text of record; laid out beside the English with the changed words, and approved by Michael Paik on 16 November 2026. Prepared with Claude, approved by Michael Paik.
+
+- **Chapter 3, regulatory status boxes (English v1.12.5):** the box introduction allows a later date; the United States federal box states Executive Orders 14365 and 14409 as the English does, with the date of the read; the states box re-dates Texas and New York City.
+- **Chapters 7 and 16 (English v1.12.4):** who carries the obligation; the four elements no single function binds; the General Counsel's signature on the design, not on operations; the chapter summary's four components; no signature outside the risk appetite; the three attributes in the edition's list form (결정권, 감독권, 개입할 권한); the General Counsel sentence.
+- **Chapters 5, 7, 9, 11, 21 and 22 and Appendix E (English v1.12.6):** Chapter 9's field list is the book's one list and the others point to it; Question 51's owner; the board approves the risk appetite and the management body owns it.
+- **Terms:** pre-deployment specification is 배포 전 명세 throughout (two occurrences of 배치 전 명세 in Chapter 9 changed), following the ruled term deployer = 배포자; one particle corrected (리스크 선호도(risk appetite)를). accountable executive = 책무 임원 throughout, on the author's ruling: seven occurrences of 책임 임원 (Chapters 8, 16 and 19) changed, 책임 staying the edition's word for liability.
+- The derived parts edited identically and two part sizes in `manuscript/README.md` updated; all 33 parts confirmed with `split_markdown.py --verify`, byte for byte. README and CITATION.cff to v0.2.7. Status unchanged: 초벌 번역, 저자 검토 중; the line review of the rest of the manuscript continues.
+
 ## v0.2.6 (2026-11-16)
 
 Patch release, 16 November 2026 (KST): the three corrections of substance of English book v1.12.5, carried in translation on Michael Paik's ruling of 16 November 2026 (account-maintenance `OPEN-ITEMS.md` item 49(b)). Translated by Claude (claude-opus-5-5) in the session of that day, from the English text of record. Status unchanged: 초벌 번역, 저자 검토 중; the three passages join the line review. Prepared with Claude, approved by Michael Paik.

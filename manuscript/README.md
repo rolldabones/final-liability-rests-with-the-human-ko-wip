@@ -10,11 +10,11 @@ Derived from [Final_Liability_Rests_with_the_Human_KO.md](../Final_Liability_Res
 | 2 | [서문: 4년. 매일.](01-preface-four-years-daily.md) | 12 |
 | 3 | [제1부: 문제 · 제1장: AI가 조정 업무를 없애면 거버넌스 공백이 드러난다](02-chapter-1-when-ai-eliminates-coordination-work-it-reveals.md) | 28 |
 | 4 | [제2장: 빠른 AI(Fast AI)는 컴플라이언스 부채를 만든다. Slow AI(슬로우 AI)는 컴플라이언스 자본을 쌓는다.](03-chapter-2-fast-ai-creates-compliance-debt-slow-ai-builds.md) | 15 |
-| 5 | [제3장: 보여주기식 컴플라이언스(compliance theater)의 문제](04-chapter-3-the-compliance-theater-problem.md) | 30 |
+| 5 | [제3장: 보여주기식 컴플라이언스(compliance theater)의 문제](04-chapter-3-the-compliance-theater-problem.md) | 31 |
 | 6 | [제4장: 에이전틱 AI는 취약한 GRC를 빠르게 실패하게 만든다](05-chapter-4-agentic-ai-will-make-weak-grc-fail-fast.md) | 20 |
 | 7 | [제5장: 늦출 수 없는 것은 감사할 수 없다](06-chapter-5-you-cannot-audit-what-you-cannot-slow-down.md) | 31 |
 | 8 | [제2부: 원칙 · 제6장: Slow AI(슬로우 AI)가 의미하는 것 (그리고 의미하지 않는 것)](07-chapter-6-what-slow-ai-means-and-what-it-does-not.md) | 32 |
-| 9 | [제7장: Final Liability(최종 책임)의 의미](08-chapter-7-what-final-liability-means.md) | 21 |
+| 9 | [제7장: Final Liability(최종 책임)의 의미](08-chapter-7-what-final-liability-means.md) | 22 |
 | 10 | [제8장: 기준은 스톱워치가 아니라 시계다](09-chapter-8-the-standard-is-a-clock-not-a-stopwatch.md) | 33 |
 | 11 | [제9장: Informed Intent](10-chapter-9-informed-intent.md) | 25 |
 | 12 | [제3부: 본인(principal)은 언제나 인간이었다 · 제10장: 코드로서의 문화: 에이전틱 AI는 조직의 운영체제를 어떻게 재편하는가](11-chapter-10-culture-as-code-how-agentic-ai-reshapes-the.md) | 53 |
