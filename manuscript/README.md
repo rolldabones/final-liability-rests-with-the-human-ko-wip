@@ -22,7 +22,7 @@ Derived from [Final_Liability_Rests_with_the_Human_KO.md](../Final_Liability_Res
 | 14 | [제12장: 휴먼 인 더 루프는 샤먼이 아니다](13-chapter-12-the-human-in-the-loop-is-not-a-shaman.md) | 54 |
 | 15 | [제13장: 에이전트에게는 걸린 평판이 없다](14-chapter-13-agents-have-no-reputational-skin-in-the-game.md) | 29 |
 | 16 | [제14장: 3선과 신뢰 경계](15-chapter-14-the-three-lines-and-the-trust-boundary.md) | 33 |
-| 17 | [제15장: 기계 속도의 본인-대리인 리스크(principal-agent risk)](16-chapter-15-principal-agent-risk-at-machine-speed.md) | 41 |
+| 17 | [제15장: 기계 속도의 본인-대리인 리스크(principal-agent risk)](16-chapter-15-principal-agent-risk-at-machine-speed.md) | 45 |
 | 18 | [제16장: 거버넌스를 운영한다는 것](17-chapter-16-running-the-governance.md) | 16 |
 | 19 | [제4부: 계약은 언제나 워크플로였다 · 제17장: 계약은 종이가 아니다. 미래의 이행을 위한 메커니즘이다.](18-chapter-17-a-contract-is-not-paper-it-is-a-mechanism-for.md) | 23 |
 | 20 | [제18장: 계약은 시계들의 집합이다](19-chapter-18-a-contract-is-a-set-of-clocks.md) | 17 |

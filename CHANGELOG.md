@@ -2,6 +2,13 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README, CITATION.cff and this file version in lockstep; prior versions are superseded, never silently overwritten. Status until the author's line review is complete: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
+## v0.2.3 (2026-11-16)
+
+Patch release, 16 November 2026 (KST): Chapter 15 carries, in translation, the correction of English v1.12.3 for *In re The Boeing Co. Derivative Litigation*, Consol. C.A. No. 2024-1210-MTZ (Del. Ch. Aug. 13, 2026), on Michael Paik's instruction of that day that the Korean edition take the corresponding changes now. Translated by Claude (claude-opus-5-5) in the remediation session, in the terms the chapter already uses; case names, citations and pinpoints in English, as the edition writes them. README and CITATION.cff to v0.2.3, in lockstep. Status unchanged: 초벌 번역, 저자 검토 중 (machine draft under the author's review); the two new paragraphs and the eight changed sentences join the line review (`account-maintenance` `OPEN-ITEMS.md` item 48(b)).
+
+- **Chapter 15, mirroring the English:** the count of decisions in the trajectory; the opening of the *Sanford* paragraph; two new paragraphs on the 2026 decision after the *Sanford* commentary; the trajectory paragraph; the Arize paragraph; the *Caremark* defense paragraph; the disclosure-reality paragraph, with the scienter standard restated; the pleading-stage paragraph; the chapter summary. The English glossary sub-entry has no counterpart here, because this edition translates v1.12.0, which has no glossary.
+- `manuscript/16-chapter-15-principal-agent-risk-at-machine-speed.md` re-derived from the corrected file of record, its Korean navigation lines unchanged (the account's `split_markdown.py` writes English navigation), and its size in `manuscript/README.md` updated; all 33 parts confirmed with `split_markdown.py --verify`, byte for byte (934,652 bytes).
+
 ## v0.2.2 (2026-11-10)
 
 Patch release, 10 November 2026 (KST): the three HIGH rows the account sweep reported at this repository's clone. No translated text changed and the parts are not regenerated. README and CITATION.cff to v0.2.2, in lockstep. Status unchanged: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
