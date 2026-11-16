@@ -1,6 +1,6 @@
 # AI 감사 및 실사 체크리스트
 
-> **상태: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** 영어판 v5.3을 기계 번역한 초벌 원고이다. 검토가 끝날 때까지 기준 텍스트는 [영어판](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_Audit_Due_Diligence_Checklist_v5_3.md)이다.
+> **상태: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** 영어판 v5.3을 기계 번역한 초벌 원고이다. 검토가 끝날 때까지 기준 텍스트는 [영어판](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/v1.12.0/AI_Audit_Due_Diligence_Checklist_v5_3.md)이다.
 
 *위험 등급별 통제 프레임워크 \| EU 인공지능법(EU AI Act) 제6조 분류 \| 배포 맥락 반영 \| 버전 5.3, 최종본*
 

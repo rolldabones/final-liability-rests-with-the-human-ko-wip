@@ -3,7 +3,7 @@
 <!-- nav:end -->
 # AI GRC 마스터 레퍼런스 파일: 버전 7.14
 
-> **상태: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** 영어판 v7.14를 기계 번역한 초벌 원고이다. 검토가 끝날 때까지 기준 텍스트는 [영어판](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/main/AI_GRC_Master_Reference_v7_14.md)이다.
+> **상태: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** 영어판 v7.14를 기계 번역한 초벌 원고이다. 검토가 끝날 때까지 기준 텍스트는 [영어판](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/v1.12.0/AI_GRC_Master_Reference_v7_14.md)이다.
 
 ## AI 지원 거버넌스, 리스크 관리 및 컴플라이언스 문서 작성을 위한 지식 기반
 

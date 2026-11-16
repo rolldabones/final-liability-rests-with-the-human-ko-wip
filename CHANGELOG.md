@@ -2,6 +2,12 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README, CITATION.cff and this file version in lockstep; prior versions are superseded, never silently overwritten. Status until the author's line review is complete: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
+## v0.2.4 (2026-11-16)
+
+Patch release, 16 November 2026 (KST): three links to the English instruments pinned to the version this edition translates. English book v1.12.5 reissued Appendices I and J as v5.4 and v7.15 and removed v5.3 and v7.14 from its main branch, so the status lines of `AI_Audit_Due_Diligence_Checklist_v5_3_KO.md` and `AI_GRC_Master_Reference_v7_14_KO.md`, and the same line in the first `master-reference/` part, pointed at files that no longer exist there (account-maintenance class F2). Each now points to the file at the English tag v1.12.0. The `master-reference/` index's sentence that each part corresponds to the English part of the same name now names English v1.12.0, because v1.12.5 renamed two English parts. No translated text changes; the corrections of English v1.12.5 are not carried here and are reported for the line review. README and CITATION.cff to v0.2.4. Status unchanged: 초벌 번역, 저자 검토 중. Prepared with Claude, approved by Michael Paik.
+
+- `master-reference/` confirmed with `split_markdown.py --verify`, byte for byte.
+
 ## v0.2.3 (2026-11-16)
 
 Patch release, 16 November 2026 (KST): Chapter 15 carries, in translation, the correction of English v1.12.3 for *In re The Boeing Co. Derivative Litigation*, Consol. C.A. No. 2024-1210-MTZ (Del. Ch. Aug. 13, 2026), on Michael Paik's instruction of that day that the Korean edition take the corresponding changes now. Translated by Claude (claude-opus-5-5) in the remediation session, in the terms the chapter already uses; case names, citations and pinpoints in English, as the edition writes them. README and CITATION.cff to v0.2.3, in lockstep. Status unchanged: 초벌 번역, 저자 검토 중 (machine draft under the author's review); the two new paragraphs and the eight changed sentences join the line review (`account-maintenance` `OPEN-ITEMS.md` item 48(b)).

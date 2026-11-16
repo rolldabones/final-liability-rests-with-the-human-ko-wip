@@ -7,7 +7,7 @@
 **Son-U Michael Paik**
 GRC Solutions Korea 대표이사(CEO)
 
-**v0.2.3 · 2026년 11월 16일 · 라이선스: [CC BY-NC-SA 4.0](LICENSE.md) · 변경 기록: [CHANGELOG.md](CHANGELOG.md) · [English edition](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip)**
+**v0.2.4 · 2026년 11월 16일 · 라이선스: [CC BY-NC-SA 4.0](LICENSE.md) · 변경 기록: [CHANGELOG.md](CHANGELOG.md) · [English edition](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip)**
 
 > **상태: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** 이 저장소의 한국어 텍스트는 영어판 v1.12.0을 기계 번역한 초벌 원고이며, 저자가 한 줄씩 검토하고 있다. 완성된 번역이 아니다. 검토가 끝날 때까지 기준 텍스트는 영어판이며, 두 판이 다를 때에는 영어판이 우선한다.
 
@@ -46,7 +46,7 @@ GRC Solutions Korea 대표이사(CEO)
 
 ## 인용
 
-> Paik, Son-U Michael. 『최종 책임은 인간에게 있다』(*Final Liability Rests with the Human*, 한국어판), v0.2.3, 초벌 번역, 저자 검토 중. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip
+> Paik, Son-U Michael. 『최종 책임은 인간에게 있다』(*Final Liability Rests with the Human*, 한국어판), v0.2.4, 초벌 번역, 저자 검토 중. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip
 
 내용을 인용할 때는 기준 텍스트인 영어판을 인용한다. 기계가 읽을 수 있는 인용 정보는 [CITATION.cff](CITATION.cff)에 있다.
 
