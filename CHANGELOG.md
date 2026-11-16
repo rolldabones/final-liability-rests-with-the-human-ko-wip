@@ -2,6 +2,15 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README, CITATION.cff and this file version in lockstep; prior versions are superseded, never silently overwritten. Status until the author's line review is complete: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
+## v0.2.5 (2026-11-16)
+
+Patch release, 16 November 2026 (KST): the author's line review of the Chapter 15 text added in v0.2.3 (account-maintenance `OPEN-ITEMS.md` item 48(b)). The two new paragraphs and the eight changed passages were laid out beside English v1.12.3 with a literal back-translation; Michael Paik approved the review's recommendations on 16 November 2026. Prepared with Claude, approved by Michael Paik.
+
+- **Terms.** particularized facts = 구체적이고 특정된 사실(particularized facts), where v0.2.3 dropped "particularized"; yellow flag = 주의 신호(yellow flag), so that it pairs with 경고 신호 for red flag; red-flag liability 귀속된다, the edition's word for "attaches", replacing 붙는다. Accepted as rendered in v0.2.3: 제소 청구(demand), 기업적 타격(corporate trauma), 형평법원 규칙(Court of Chancery Rule) 23.1.
+- **Wording.** The Arize passage attaches "as the 2021 complaint described it" to Boeing's board, as the English does, not to the crash; the *Caremark* defense passage reads 경영진의 문서화된 대응 (management's documented responses).
+- No other passage of Chapter 15 changes; the review read only the text added in v0.2.3. The edition's status stays 초벌 번역, 저자 검토 중 until the line review of the whole manuscript is complete.
+- `manuscript/16-chapter-15-principal-agent-risk-at-machine-speed.md` edited identically, its Korean navigation lines unchanged; all 33 parts confirmed with `split_markdown.py --verify`, byte for byte. README and CITATION.cff to v0.2.5.
+
 ## v0.2.4 (2026-11-16)
 
 Patch release, 16 November 2026 (KST): three links to the English instruments pinned to the version this edition translates. English book v1.12.5 reissued Appendices I and J as v5.4 and v7.15 and removed v5.3 and v7.14 from its main branch, so the status lines of `AI_Audit_Due_Diligence_Checklist_v5_3_KO.md` and `AI_GRC_Master_Reference_v7_14_KO.md`, and the same line in the first `master-reference/` part, pointed at files that no longer exist there (account-maintenance class F2). Each now points to the file at the English tag v1.12.0. The `master-reference/` index's sentence that each part corresponds to the English part of the same name now names English v1.12.0, because v1.12.5 renamed two English parts. No translated text changes; the corrections of English v1.12.5 are not carried here and are reported for the line review. README and CITATION.cff to v0.2.4. Status unchanged: 초벌 번역, 저자 검토 중. Prepared with Claude, approved by Michael Paik.
