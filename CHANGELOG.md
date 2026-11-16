@@ -2,6 +2,16 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README, CITATION.cff and this file version in lockstep; prior versions are superseded, never silently overwritten. Status until the author's line review is complete: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
+## v0.2.6 (2026-11-16)
+
+Patch release, 16 November 2026 (KST): the three corrections of substance of English book v1.12.5, carried in translation on Michael Paik's ruling of 16 November 2026 (account-maintenance `OPEN-ITEMS.md` item 49(b)). Translated by Claude (claude-opus-5-5) in the session of that day, from the English text of record. Status unchanged: 초벌 번역, 저자 검토 중; the three passages join the line review. Prepared with Claude, approved by Michael Paik.
+
+- **Appendix J, Part 1:** the December 2025 order is no longer called the most recent; Executive Orders 14365 and 14409 are named, as in English v7.15.
+- **Appendix J, Part 12, Texas:** the affirmative defense for NIST AI RMF compliance, which the statute does not give, is replaced by the safe harbor of Tex. Bus. & Com. Code § 552.105(e), and the cure period applies to every noticed violation (§ 552.104). The rest of the entry, which English v7.15 also restates, is left for the line review.
+- **Chapter 22, fairness note:** the Comptroller's audit as its published summary states it, with the date of the read; "currently in force" dated 16 November 2026.
+- The file names and the version this edition translates (v5.3 and v7.14) are unchanged; the corrected passages say which English version they follow. The other mirror lines of English v1.12.4 to v1.12.6, which correct no fact, are listed in item 49(b) for the line review.
+- The derived parts edited identically, Korean navigation lines unchanged, and the size of the fourth `master-reference/` part in its index updated (62 to 63 KB); `manuscript/` (33 parts) and `master-reference/` (6 parts) confirmed with `split_markdown.py --verify`, byte for byte. README and CITATION.cff to v0.2.6.
+
 ## v0.2.5 (2026-11-16)
 
 Patch release, 16 November 2026 (KST): the author's line review of the Chapter 15 text added in v0.2.3 (account-maintenance `OPEN-ITEMS.md` item 48(b)). The two new paragraphs and the eight changed passages were laid out beside English v1.12.3 with a literal back-translation; Michael Paik approved the review's recommendations on 16 November 2026. Prepared with Claude, approved by Michael Paik.

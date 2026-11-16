@@ -9,7 +9,7 @@ Derived from [AI_GRC_Master_Reference_v7_14_KO.md](../AI_GRC_Master_Reference_v7
 | 1 | [AI GRC 마스터 레퍼런스 파일: 버전 7.14](00-ai-grc-master-reference-file-version-7-14-to-part-0-quick.md) | 48 |
 | 2 | [제1부: 기초](01-part-1-foundations-to-part-3-roles-and-responsibilities.md) | 56 |
 | 3 | [제4부: 리스크 관리](02-part-4-risk-management-to-part-8-incident-management.md) | 64 |
-| 4 | [제9부: 에이전틱 AI 거버넌스](03-part-9-agentic-ai-governance-to-part-20-fundamental-rights.md) | 62 |
+| 4 | [제9부: 에이전틱 AI 거버넌스](03-part-9-agentic-ai-governance-to-part-20-fundamental-rights.md) | 63 |
 | 5 | [제21부: 집행 체계 및 제재 체계](04-part-21-enforcement-architecture-and-penalty-framework-to.md) | 51 |
 | 6 | [부록 H: 참고 저작 및 표준 프로파일](05-appendix-h-reference-works-and-standards-profiles.md) | 22 |
 
