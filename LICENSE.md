@@ -2,7 +2,7 @@ SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 # License
 
-**최종 책임은 인간에게 있다 (Final Liability Rests with the Human), Korean edition: manuscript, instruments and repository** © 2026 Son-U Michael Paik
+**최종 책임은 인간이 진다 (Final Liability Rests with the Human), Korean edition: manuscript, instruments and repository** © 2026 Son-U Michael Paik
 
 This is a translation of [Final Liability Rests with the Human](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip) v1.12.0 by the same author, released under the same license. The Korean text is a machine draft under the author's review (초벌 번역, 저자 검토 중); where it differs from the English, the English edition governs until the review is complete.
 

@@ -1,11 +1,11 @@
 cff-version: 1.2.0
 message: "If you cite this work, please cite the English edition as the text of record; cite this Korean edition only for its translation, and state its review status."
-title: "최종 책임은 인간에게 있다 (Final Liability Rests with the Human), Korean edition"
+title: "최종 책임은 인간이 진다 (Final Liability Rests with the Human), Korean edition"
 authors:
   - family-names: "Paik"
     given-names: "Son-U Michael"
-version: 0.2.7
-date-released: "2026-11-16"
+version: 0.3.0
+date-released: "2026-11-25"
 license: CC-BY-NC-SA-4.0
 repository-code: "https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip"
 abstract: "Korean edition of the book manuscript developing the Final Liability doctrine, translated from English v1.12.0, with Chapter 15 corrected to English v1.12.3, and with Appendices I and J. Status: 초벌 번역, 저자 검토 중 (machine draft under the author's review)."

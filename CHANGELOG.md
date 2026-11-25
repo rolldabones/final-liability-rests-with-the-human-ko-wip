@@ -2,6 +2,16 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README, CITATION.cff and this file version in lockstep; prior versions are superseded, never silently overwritten. Status until the author's line review is complete: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
+## v0.3.0 (2026-11-25)
+
+Minor release, 25 November 2026 (KST): the Korean title, the subtitle and the register of the repository's own pages revised after feedback from a Korean reader, who proposed a more natural rendering of the README. Michael Paik ruled on 25 November 2026 to adopt the title, a subtitle faithful to the English, and the polite register for READMEs only. Prepared with Claude (claude-opus-5-5), approved by Michael Paik.
+
+- **Title.** 최종 책임은 인간에게 있다 becomes 최종 책임은 인간이 진다 ("bears", the idiomatic verb for liability), reversing the ruling of 10 November 2026. Changed everywhere outside this changelog: the README, the file of record and its 33 parts (the heading and every navigation line), the parts index, LICENSE.md and CITATION.cff. The same rendering is carried into the two body passages that translate the doctrine's name as a sentence: the Preface poem's refrain (Final Liability는 / 인간이 진다) and the short form in Chapter 1 (**Final Liability**는 인간이 진다). Appendix J's 인간에게 귀속된다 is a different rendering and is left for the line review.
+- **Subtitle.** 에이전틱 시스템 시대 becomes AI 에이전트 시대, from the reader's proposal; the rest stays faithful to *A Practitioner's Guide to Governed AI in the Age of Agentic Systems*. The reader's 신뢰·거버넌스 원칙 was not taken, because it adds "trust" and drops "Practitioner's Guide", which the English text of record does not support.
+- **Register.** The README and the two parts indexes move from 한다체 to 합니다체, following the reader's wording with three corrections: the register rule reads 문체(본문은 한다체), where the proposal had 문제 제기의 형식; governance, risk management and compliance stays one fixed term (거버넌스, 리스크 관리 및 컴플라이언스), not split into two; and the doctrine names are bolded one by one. The status line keeps the statement that the draft was translated with AI. The manuscript, the two instruments and their parts stay in 한다체.
+- **README accuracy.** The README now states that the corrections of English v1.12.4 to v1.12.6 were also carried (v0.2.6 and v0.2.7), where it named only Chapter 15. The English section records the title change.
+- `split_markdown.py --verify`: 33 parts rebuild the manuscript byte for byte (936,661 bytes) and six rebuild the Master Reference (310,107 bytes). One part size in `manuscript/README.md` updated (Appendix K, 10 to 9 KB). README and CITATION.cff to v0.3.0. Status unchanged: 초벌 번역, 저자 검토 중.
+
 ## v0.2.7 (2026-11-16)
 
 Patch release, 16 November 2026 (KST): the mirror lines of English book v1.12.4 to v1.12.6 that correct no fact, carried in translation, with the author's line review of the same day (account-maintenance `OPEN-ITEMS.md` item 49(b)). Translated by Claude (claude-opus-5-5) from the English text of record; laid out beside the English with the changed words, and approved by Michael Paik on 16 November 2026. Prepared with Claude, approved by Michael Paik.
