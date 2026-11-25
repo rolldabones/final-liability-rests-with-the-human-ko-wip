@@ -7,7 +7,7 @@
 
 **AI 에이전트 시대, 거버넌스를 갖춘 AI를 위한 실무 안내서**
 
-**Son-U Michael Paik**
+**백선우**
 
 GRC Solutions Korea 대표이사(CEO)
 

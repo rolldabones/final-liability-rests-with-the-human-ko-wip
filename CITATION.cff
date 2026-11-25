@@ -4,7 +4,8 @@ title: "최종 책임은 인간이 진다 (Final Liability Rests with the Human)
 authors:
   - family-names: "Paik"
     given-names: "Son-U Michael"
-version: 0.3.0
+    alias: "백선우"
+version: 0.3.1
 date-released: "2026-11-25"
 license: CC-BY-NC-SA-4.0
 repository-code: "https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip"

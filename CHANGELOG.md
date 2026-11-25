@@ -2,6 +2,14 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README, CITATION.cff and this file version in lockstep; prior versions are superseded, never silently overwritten. Status until the author's line review is complete: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
+## v0.3.1 (2026-11-25)
+
+Patch release, 25 November 2026 (KST): the author's Korean name in the edition's Korean bylines, on Michael Paik's ruling of 25 November 2026 that the Korean repositories credit him as 백선우, as the Slow AI Kitchen's Korean pages already do. Prepared with Claude (claude-opus-5-5), approved by Michael Paik.
+
+- **Bylines.** 백선우 in place of Son-U Michael Paik in the README masthead, the file of record's title page and its first part, and Appendix H's byline and signature (with the credit line as GRC Solutions Korea 대표이사(CEO), as the title page writes it). The Korean citation in the README reads 백선우(Son-U Michael Paik), so the entry still matches the English edition.
+- **Kept in English.** The README's English section, LICENSE.md (the copyright line), this changelog and the commit identity keep Son-U Michael Paik. CITATION.cff keeps the family and given names and adds alias 백선우. The amendment note in Appendix I that records "Michael Paik의 명시적 결정" is a record of a ruling in the English instrument and is left as written.
+- `split_markdown.py --verify`: 33 parts rebuild the manuscript byte for byte (936,660 bytes); no part size in the index changes. README and CITATION.cff to v0.3.1. Status unchanged: 초벌 번역, 저자 검토 중.
+
 ## v0.3.0 (2026-11-25)
 
 Minor release, 25 November 2026 (KST): the Korean title, the subtitle and the register of the repository's own pages revised after feedback from a Korean reader, who proposed a more natural rendering of the README. Michael Paik ruled on 25 November 2026 to adopt the title, a subtitle faithful to the English, and the polite register for READMEs only. Prepared with Claude (claude-opus-5-5), approved by Michael Paik.

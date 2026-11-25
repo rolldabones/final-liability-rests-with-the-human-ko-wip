@@ -4,10 +4,10 @@
 
 **AI 에이전트 시대, 거버넌스를 갖춘 AI를 위한 실무 안내서**
 
-**Son-U Michael Paik**
+**백선우**
 GRC Solutions Korea 대표이사(CEO)
 
-**v0.3.0 · 2026년 11월 25일 · 라이선스: [CC BY-NC-SA 4.0](LICENSE.md) · 변경 기록: [CHANGELOG.md](CHANGELOG.md) · [English edition](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip)**
+**v0.3.1 · 2026년 11월 25일 · 라이선스: [CC BY-NC-SA 4.0](LICENSE.md) · 변경 기록: [CHANGELOG.md](CHANGELOG.md) · [English edition](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip)**
 
 > **번역 및 검토 현황: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** 이 저장소의 한국어판은 영문 원고를 AI로 번역한 초벌 번역본으로, 현재 저자의 검토가 진행 중입니다. 아직 최종 번역본은 아니며, 검토가 완료되기 전까지는 영어 원문을 공식 기준으로 합니다. 한국어판과 영어 원문 사이에 차이가 있는 경우 영어 원문이 우선합니다.
 
@@ -52,7 +52,7 @@ GRC Solutions Korea 대표이사(CEO)
 
 ## 인용
 
-> Paik, Son-U Michael. 『최종 책임은 인간이 진다』(*Final Liability Rests with the Human*, 한국어판), v0.3.0, 초벌 번역, 저자 검토 중. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip
+> 백선우(Son-U Michael Paik). 『최종 책임은 인간이 진다』(*Final Liability Rests with the Human*, 한국어판), v0.3.1, 초벌 번역, 저자 검토 중. GRC Solutions Korea, 2026. https://github.com/rolldabones/final-liability-rests-with-the-human-ko-wip
 
 내용을 인용할 때는 기준 텍스트인 영어판을 인용해 주십시오. 기계가 읽을 수 있는 인용 정보는 [CITATION.cff](CITATION.cff)에 있습니다.
 

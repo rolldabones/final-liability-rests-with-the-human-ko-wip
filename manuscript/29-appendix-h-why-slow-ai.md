@@ -8,7 +8,7 @@
 
 *거버넌스, 대항력, 그리고 AI 책무성이 여전히 가능한 조건에 관하여*
 
-Son-U Michael Paik \| CEO, GRC Solutions Korea
+백선우 \| GRC Solutions Korea 대표이사(CEO)
 
 **거버넌스에는 속도 문제가 있다. AI에는 없다.**
 
@@ -174,9 +174,9 @@ Slow AI는 그들이 그 일을 하는 데 필요한 기록을 제공한다. 그
 
 **Final Liability rests with the Human.**
 
-*Son-U Michael Paik*
+*백선우*
 
-CEO, GRC Solutions Korea
+GRC Solutions Korea 대표이사(CEO)
 
 **인용 출처**
 
