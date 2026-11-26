@@ -2,6 +2,14 @@
 
 All notable changes to this repository are documented here. Versioning follows [Semantic Versioning](https://semver.org/). The README, CITATION.cff and this file version in lockstep; prior versions are superseded, never silently overwritten. Status until the author's line review is complete: 초벌 번역, 저자 검토 중 (machine draft under the author's review).
 
+## v0.3.2 (2026-11-26)
+
+Patch release: the two Korean instruments stated as dated editions. On Michael Paik's rulings of 26 November 2026, recorded in DISPOSITION.md in the profile repository: thirteen repositories of the account were archived that day as dated editions. Prepared with Claude, approved by Michael Paik.
+
+- **`AI_GRC_Master_Reference_v7_14_KO.md` and `AI_Audit_Due_Diligence_Checklist_v5_3_KO.md`:** a note under each title, in Korean and English, says the file follows the English v7.14 or v5.3 and no later one, and is not updated. The English instruments went on to v7.16 and v5.5 and are themselves dated editions from the same day; the Korean ones will not mirror them. The same note is in the first derived part under `master-reference/`.
+- **The manuscript translation is unchanged** and remains under the author's line review.
+- README and `CITATION.cff` to v0.3.2. No file is added, removed, renamed or moved.
+
 ## v0.3.1 (2026-11-25)
 
 Patch release, 25 November 2026 (KST): the author's Korean name in the edition's Korean bylines, on Michael Paik's ruling of 25 November 2026 that the Korean repositories credit him as 백선우, as the Slow AI Kitchen's Korean pages already do. Prepared with Claude (claude-opus-5-5), approved by Michael Paik.

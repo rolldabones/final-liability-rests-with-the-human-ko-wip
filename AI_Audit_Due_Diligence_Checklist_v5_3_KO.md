@@ -1,5 +1,7 @@
 # AI 감사 및 실사 체크리스트
 
+> **보존본(dated edition), 2026년 11월 26일.** 이 문서는 영어판 v5.3을 옮긴 것으로, 그 이후의 영어판 개정을 따르지 않으며 더 이상 갱신되지 않습니다. 법령에 관한 서술은 의존하기 전에 최신 원문으로 확인하십시오. A dated edition from 26 November 2026: it follows the English v5.3 and no later one, and is not updated. See [DISPOSITION.md](https://github.com/rolldabones/rolldabones/blob/main/DISPOSITION.md).
+
 > **상태: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** 영어판 v5.3을 기계 번역한 초벌 원고이다. 검토가 끝날 때까지 기준 텍스트는 [영어판](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/v1.12.0/AI_Audit_Due_Diligence_Checklist_v5_3.md)이다.
 
 *위험 등급별 통제 프레임워크 \| EU 인공지능법(EU AI Act) 제6조 분류 \| 배포 맥락 반영 \| 버전 5.3, 최종본*

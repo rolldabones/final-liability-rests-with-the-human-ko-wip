@@ -3,6 +3,8 @@
 <!-- nav:end -->
 # AI GRC 마스터 레퍼런스 파일: 버전 7.14
 
+> **보존본(dated edition), 2026년 11월 26일.** 이 문서는 영어판 v7.14를 옮긴 것으로, 그 이후의 영어판 개정을 따르지 않으며 더 이상 갱신되지 않습니다. 법령에 관한 서술은 의존하기 전에 최신 원문으로 확인하십시오. A dated edition from 26 November 2026: it follows the English v7.14 and no later one, and is not updated. See [DISPOSITION.md](https://github.com/rolldabones/rolldabones/blob/main/DISPOSITION.md).
+
 > **상태: 초벌 번역, 저자 검토 중 (machine draft under the author's review).** 영어판 v7.14를 기계 번역한 초벌 원고이다. 검토가 끝날 때까지 기준 텍스트는 [영어판](https://github.com/rolldabones/final-liability-rests-with-the-human-book-wip/blob/v1.12.0/AI_GRC_Master_Reference_v7_14.md)이다.
 
 ## AI 지원 거버넌스, 리스크 관리 및 컴플라이언스 문서 작성을 위한 지식 기반
